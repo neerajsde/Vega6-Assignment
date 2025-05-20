@@ -1,12 +1,24 @@
-# React + Vite
+# Vega6 Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a submission for the **Vega6 Node.js Developer Assignment**, developed by [Neeraj Prajapati](https://github.com/neerajsde). It demonstrates a clean, responsive full-stack application using modern web development technologies. The frontend is built using **React.js** and **Tailwind CSS**, while the backend uses **Node.js**, with **Redis** for caching, all containerized via **Docker**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✅ Full-stack architecture (React + Node.js)
+- ✅ Redis caching integration
+- ✅ Dockerized setup
+- ✅ Utility-first styling with Tailwind CSS
+- ✅ Clean and modular codebase
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js, Tailwind CSS, Vite
+- **Backend**: Node.js, Express.js
+- **Database/Cache**: MongoDB, Redis
+- **Containerization**: Docker
+
+---
